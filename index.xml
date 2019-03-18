@@ -1,34 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>好烧饼</title>
+    <title>This is just a blog, thanks for your visit,Nice day! on This is just a blog, thanks for your visit,Nice day!</title>
     <link>https://bigcai.github.io/</link>
-    <description>Recent content on 好烧饼</description>
+    <description>Recent content in This is just a blog, thanks for your visit,Nice day! on This is just a blog, thanks for your visit,Nice day!</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>zh-cn</language>
-    <copyright>All rights reserved - 2018</copyright>
-    <lastBuildDate>Wed, 28 Nov 2018 00:33:00 +0800</lastBuildDate>
-    
-	<atom:link href="https://bigcai.github.io/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>这是第二篇博客</title>
-      <link>https://bigcai.github.io/post/secondpost/</link>
-      <pubDate>Wed, 28 Nov 2018 00:33:00 +0800</pubDate>
-      
-      <guid>https://bigcai.github.io/post/secondpost/</guid>
-      <description>写长一点 写长一点 写长一点 写长一点 写长一点 写长一点 写长一点 写长一点 写长一点 写长一点 写长一点 写长一点 写长一点 写长一点 写长一点</description>
-    </item>
-    
-    <item>
-      <title>20181128</title>
-      <link>https://bigcai.github.io/post/20181128/</link>
-      <pubDate>Wed, 28 Nov 2018 00:26:48 +0800</pubDate>
-      
-      <guid>https://bigcai.github.io/post/20181128/</guid>
-      <description>你好！这是第一篇博客，试用hugo</description>
-    </item>
+    <language>en-us</language>
+    <atom:link href="/" rel="self" type="application/rss+xml" />
     
   </channel>
 </rss>

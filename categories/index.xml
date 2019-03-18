@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on 好烧饼</title>
+    <title>Categories on This is just a blog, thanks for your visit,Nice day!</title>
     <link>https://bigcai.github.io/categories/</link>
-    <description>Recent content in Categories on 好烧饼</description>
+    <description>Recent content in Categories on This is just a blog, thanks for your visit,Nice day!</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>zh-cn</language>
-    <copyright>All rights reserved - 2018</copyright>
+    <language>en-us</language>
     
 	<atom:link href="https://bigcai.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
